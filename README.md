@@ -2,8 +2,7 @@
 
 - 📚 Estudando JavaScript e TypeScript
 - ✨ Planos de estudo para o futuro: Python |UX e UI Design |Inteligência Artificial
-- 📲 Projetos futuros: Um aplicativo para conectar usuários através da música.
-- 🤔 I’m looking for help with ...
+- 📲 Projetos futuros: Um aplicativo para conectar usuários através da música
 
 
 <div align="center">
